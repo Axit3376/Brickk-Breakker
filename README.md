@@ -37,7 +37,6 @@ Destroy all the bricks with the ball while preventing it from falling using the 
 Brick Breakker/
 ├── ball.py           # Ball behavior and movement
 ├── brick.py          # Brick class
-├── controller.py     # Keyboard controller for smooth movement
 ├── paddle.py         # Paddle movement
 ├── score.py          # Score management
 ├── main.py           # Game loop and setup
