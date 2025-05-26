@@ -30,6 +30,12 @@ Destroy all the bricks with the ball while preventing it from falling using the 
 - Tkinter (for dialog boxes)
 
 ---
+## 📸 Images
+
+![image](https://github.com/user-attachments/assets/9d3891a5-94a4-40de-9481-88016ff29f67)
+![image](https://github.com/user-attachments/assets/99f9d8b4-93d9-4577-9db9-aa3bb7f234db)
+
+---
 
 ## 📁 Project Structure
 
